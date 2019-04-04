@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/ImageColumn/Default.aspx) (VB: [Default.aspx](./VB/ImageColumn/Default.aspx))
-* [Default.aspx.cs](./CS/ImageColumn/Default.aspx.cs) (VB: [Default.aspx](./VB/ImageColumn/Default.aspx))
+* [Default.aspx.cs](./CS/ImageColumn/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ImageColumn/Default.aspx.vb))
 <!-- default file list end -->
 # How to display an icon in a grid cell
 
